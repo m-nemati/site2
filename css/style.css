@@ -1,0 +1,68 @@
+body{
+    font-family: byekan;
+}
+nav{
+    font-size: 1.2rem;
+
+}
+/*  منوی فرعی بالایی سایت*/
+#topmenu{
+    direction: ltr;
+    background-color: #3c3c3c;
+    
+}
+#socialLinks{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 15px; 
+}
+#socialLinks:hover{
+    color: greenyellow;
+    font-size: 1.4rem;
+}
+/* پایان بخش منوی بالایی سایت */
+/* بخش محصولات */
+#products{
+    padding: 3%;
+}
+/* پایان بخش محصولات */
+/* **** بخش تماس با ما */
+#contacts{
+    background-color: #333;
+    color: white;
+    padding: 5%;
+}
+#LeftSection{
+    direction: ltr;
+}
+#webLink{
+    text-decoration: none;
+    color: white;
+}
+#webLink:hover{
+    color: greenyellow;
+    cursor: pointer;
+}
+#txtColor{
+    color: greenyellow;
+}
+/* **** پایان بخش تماس با ما*/
+
+/* بخش حرکت به بالای صفحه */
+#gotop{
+    position:fixed;
+    bottom:10px;
+    right: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    display:none;
+    z-index: 10;
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 75vh;
+  }
