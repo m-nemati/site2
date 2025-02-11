@@ -31,9 +31,20 @@ nav{
 /*  پایان بخش اسلایدر*/
 /* بخش محصولات */
 #products{
-    padding: 3%;
+    padding: 5%;
+    background-color: #333;
+    color: white;
+}
+#products h2{
+    color: greenyellow;
 }
 /* پایان بخش محصولات */
+#about{
+    padding: 5%;
+}
+/*  بخش درباره ما */
+
+/* پایان بخش درباره ما */
 /* **** بخش تماس با ما */
 #contacts{
     background-color: #333;
@@ -75,6 +86,7 @@ nav{
 #englishSection{
     direction: ltr;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 5%;
 }
 #englishSection p{
     font-size: 1.1rem;
