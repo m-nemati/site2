@@ -50,6 +50,10 @@ nav{
 /*  بخش درباره ما */
 
 /* پایان بخش درباره ما */
+/* lightbox*/
+#lightboxgallary{
+    padding: 5%;
+}
 /* **** بخش تماس با ما */
 #contacts{
     background-color: #333;
