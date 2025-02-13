@@ -22,7 +22,12 @@ nav{
     font-size: 1.4rem;
 }
 /* پایان بخش منوی بالایی سایت */
-
+/* عنوان سایت */
+#siteTitle{
+    background-image: linear-gradient(to left, #2E3192  , #1BFFFF);
+    color: white;
+    
+}
 /*  بخش اسلایدر*/
 .w-100 {
     width: 100% !important;
