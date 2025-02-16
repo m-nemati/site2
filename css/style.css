@@ -9,22 +9,21 @@ nav{
 #topmenu{
     direction: ltr;
     background-color: #3c3c3c;
-    
 }
 #socialLinks{
     text-decoration: none;
     color: white;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-left: 15px; 
 }
 #socialLinks:hover{
     color: greenyellow;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 /* پایان بخش منوی بالایی سایت */
 /* عنوان سایت */
 #siteTitle{
-    background-image: linear-gradient(to left, #2E3192  , #1BFFFF);
+   
     color: white;
     
 }
@@ -43,16 +42,23 @@ nav{
 #products h2{
     color: greenyellow;
 }
+
 /* پایان بخش محصولات */
-#about{
-    padding: 5%;
-}
 /*  بخش درباره ما */
 
+#about{
+    padding: 5%;
+    background-color: #333;
+    color: white;
+}
+#about h2{
+ color: greenyellow;
+}
 /* پایان بخش درباره ما */
 /* lightbox*/
 #lightboxgallary{
     padding: 5%;
+    background-color: #333;
 }
 /* **** بخش تماس با ما */
 #contacts{
